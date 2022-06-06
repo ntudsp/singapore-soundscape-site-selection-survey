@@ -28,7 +28,6 @@ The Jupyter notebook contains further details and comments for the replication c
     
 # Directory structure
 
-## This repository
     .
     ├── code                         
     │   ├── replication_code.ipynb   # Code used to process the raw data and output the results (run this first).
