@@ -1,0 +1,10 @@
+name: s5
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab=3.4.0
+  - pandas=1.4.2
+  - scikit-learn=1.0.2
+  - seaborn=0.11.2
+prefix: \anaconda3\envs\s5
