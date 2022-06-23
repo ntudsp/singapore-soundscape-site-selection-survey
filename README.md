@@ -4,7 +4,7 @@ Raw data and code for replication of all results in the Singapore Soundscape Sit
 
 This repository stores the responses obtained as part of the S5 project and replication code for the identification of characteristic soundscapes in Singapore that are "full of life and exciting", "chaotic and restless", "calm and tranquil", and "boring and lifeless". For more details on the dataset, please refer to our publication:
 
-> Ooi, K.; Lam, B.; Hong, J.; Watcharasupat, K. N.; Ong, Z.-T.; Gan, W.-S. Singapore Soundscape Site Selection Survey (S5): Identification of Characteristic Soundscapes of Singapore via Weighted k-means Clustering. Sustainability 2022. [Under review]
+> Ooi, K.; Lam, B.; Hong, J.; Watcharasupat, K. N.; Ong, Z.-T.; Gan, W.-S. Singapore Soundscape Site Selection Survey (S5): Identification of Characteristic Soundscapes of Singapore via Weighted k-means Clustering. Sustainability. 14 (2022) 7485. https://doi.org/10.3390/su14127485
 
 # Getting started
 
